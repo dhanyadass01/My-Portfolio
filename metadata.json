@@ -1,0 +1,7 @@
+{
+  "name": "Dhanya D - AI Portfolio",
+  "description": "A professional and modern portfolio for Dhanya D, an aspiring AI web developer and UI/UX enthusiast, featuring a Gemini-powered resume assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
